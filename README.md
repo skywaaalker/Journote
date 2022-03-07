@@ -1,2 +1,2 @@
 # Journote
-Journal&amp;note management system
+Journal&amp;note management system on website.
